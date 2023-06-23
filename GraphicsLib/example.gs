@@ -5,3 +5,15 @@ l=[
   {"Hello World":[2,4,45,1]},
 ]
 print f(l)
+
+// Starting from left, going right:
+//
+// X Position
+// Y Position
+// Rotate
+// Whole Word
+//
+// X, will move it horizontally
+// Y, will move it vertically
+// Rotate, will rotate it
+// Whole Word, will decide whether you want to rotate the whole string or just the letters
