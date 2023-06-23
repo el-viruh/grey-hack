@@ -17,3 +17,5 @@ print f(l)
 // Y, will move it vertically
 // Rotate, will rotate it
 // Whole Word, will decide whether you want to rotate the whole string or just the letters
+//
+// For personal preferences, I inverted the rotate value so negative values will go anti-clockwise instead
