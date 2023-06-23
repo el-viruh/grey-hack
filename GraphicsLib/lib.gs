@@ -1,4 +1,4 @@
-posf=function(l)
+f=function(l)
     x=10
     y=24
     out=""
